@@ -1,0 +1,241 @@
+2025-07-24 02:25:50:2550 info: Server is running on port 3000
+2025-07-24 02:25:50:2550 info: API Base Path: /api/v1
+2025-07-24 02:26:03:263 info: GET /
+2025-07-24 02:26:18:2618 info: GET /api/v1/health
+2025-07-24 04:55:32:5532 info: Server is running on port 3000
+2025-07-24 04:55:32:5532 info: API Base Path: /api/v1
+2025-07-24 04:55:41:5541 info: GET /api/v1/health
+2025-07-24 04:55:48:5548 info: GET /api/v1/health
+2025-07-24 04:55:49:5549 info: GET /favicon.ico
+2025-07-24 04:55:59:5559 info: GET /api/v1/health
+2025-07-24 04:56:10:5610 info: GET /api/v1/admins
+2025-07-24 04:56:24:5624 info: GET /api/v1/admins/list
+2025-07-24 04:56:36:5636 info: GET /api/v1/admin/list
+2025-07-24 05:03:44:344 info: POST /api/v1/admin/login
+2025-07-24 05:03:51:351 info: POST /api/v1/admin/login
+2025-07-24 05:04:59:459 info: POST /api/v1/admin/login
+2025-07-24 05:05:49:549 info: Server is running on port 3000
+2025-07-24 05:05:49:549 info: API Base Path: /api/v1
+2025-07-24 05:06:00:60 info: Server is running on port 3000
+2025-07-24 05:06:00:60 info: API Base Path: /api/v1
+2025-07-24 05:06:05:65 info: POST /api/v1/admin/login
+2025-07-24 05:06:05:65 info: Login attempt for username:
+2025-07-24 05:06:05:65 info: Password:
+2025-07-24 05:06:59:659 info: Server is running on port 3000
+2025-07-24 05:06:59:659 info: API Base Path: /api/v1
+2025-07-24 05:07:03:73 info: Server is running on port 3000
+2025-07-24 05:07:03:73 info: API Base Path: /api/v1
+2025-07-24 05:07:06:76 info: POST /api/v1/admin/login
+2025-07-24 05:07:06:76 info: Login attempt for username:
+2025-07-24 05:08:18:818 info: Server is running on port 3000
+2025-07-24 05:08:18:818 info: API Base Path: /api/v1
+2025-07-24 05:08:21:821 info: POST /api/v1/admin/login
+2025-07-24 05:08:21:821 info: Form data:
+2025-07-24 05:11:12:1112 info: POST /api/v1/admin/login
+2025-07-24 05:11:12:1112 error: Login error: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-24 05:11:39:1139 info: POST /api/v1/admin/login
+2025-07-24 05:11:39:1139 info: Form data:
+2025-07-24 05:12:01:121 info: Server is running on port 3000
+2025-07-24 05:12:01:121 info: API Base Path: /api/v1
+2025-07-24 05:12:02:122 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:12:02:122 info: Form data:
+2025-07-24 05:12:16:1216 info: Server is running on port 3000
+2025-07-24 05:12:16:1216 info: API Base Path: /api/v1
+2025-07-24 05:13:07:137 info: Server is running on port 3000
+2025-07-24 05:13:07:137 info: API Base Path: /api/v1
+2025-07-24 05:13:22:1322 info: POST /api/v1/admin/login
+2025-07-24 05:13:22:1322 info: Request headers:
+2025-07-24 05:13:22:1322 info: Content-Type:
+2025-07-24 05:13:22:1322 info: Form data:
+2025-07-24 05:13:34:1334 info: Server is running on port 3000
+2025-07-24 05:13:34:1334 info: API Base Path: /api/v1
+2025-07-24 05:13:54:1354 info: POST /api/v1/admin/login
+2025-07-24 05:13:54:1354 info: Headers:
+2025-07-24 05:13:54:1354 info: Parsed body:
+2025-07-24 05:13:54:1354 info: Request headers:
+2025-07-24 05:13:54:1354 info: Content-Type:
+2025-07-24 05:13:54:1354 info: Form data:
+2025-07-24 05:14:12:1412 info: Server is running on port 3000
+2025-07-24 05:14:12:1412 info: API Base Path: /api/v1
+2025-07-24 05:14:14:1414 info: Server is running on port 3000
+2025-07-24 05:14:14:1414 info: API Base Path: /api/v1
+2025-07-24 05:14:23:1423 info: Server is running on port 3000
+2025-07-24 05:14:23:1423 info: API Base Path: /api/v1
+2025-07-24 05:14:25:1425 info: Request headers:
+2025-07-24 05:14:25:1425 info: Content-Type:
+2025-07-24 05:14:25:1425 error: Login error: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-24 05:14:45:1445 info: Server is running on port 3000
+2025-07-24 05:14:45:1445 info: API Base Path: /api/v1
+2025-07-24 05:14:47:1447 error: Login error: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-24 05:14:58:1458 info: Server is running on port 3000
+2025-07-24 05:14:58:1458 info: API Base Path: /api/v1
+2025-07-24 05:15:01:151 info: POST /api/v1/admin/login
+2025-07-24 05:15:01:151 error: Login error: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-24 05:15:12:1512 info: Server is running on port 3000
+2025-07-24 05:15:12:1512 info: API Base Path: /api/v1
+2025-07-24 05:15:14:1514 info: POST /api/v1/admin/login undefined
+2025-07-24 05:15:14:1514 error: Login error: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-24 05:15:23:1523 info: Server is running on port 3000
+2025-07-24 05:15:23:1523 info: API Base Path: /api/v1
+2025-07-24 05:15:24:1524 info: Server is running on port 3000
+2025-07-24 05:15:24:1524 info: API Base Path: /api/v1
+2025-07-24 05:15:31:1531 info: Server is running on port 3000
+2025-07-24 05:15:31:1531 info: API Base Path: /api/v1
+2025-07-24 05:15:41:1541 info: Server is running on port 3000
+2025-07-24 05:15:41:1541 info: API Base Path: /api/v1
+2025-07-24 05:15:43:1543 info: POST /api/v1/admin/login [object Object]
+2025-07-24 05:15:59:1559 info: Server is running on port 3000
+2025-07-24 05:15:59:1559 info: API Base Path: /api/v1
+2025-07-24 05:16:02:162 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:16:46:1646 info: Server is running on port 3000
+2025-07-24 05:16:46:1646 info: API Base Path: /api/v1
+2025-07-24 05:17:06:176 info: Server is running on port 3000
+2025-07-24 05:17:06:176 info: API Base Path: /api/v1
+2025-07-24 05:17:21:1721 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:17:24:1724 info: Server is running on port 3000
+2025-07-24 05:17:24:1724 info: API Base Path: /api/v1
+2025-07-24 05:17:27:1727 info: POST /api/v1/admin/auth {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:17:35:1735 info: Server is running on port 3000
+2025-07-24 05:17:35:1735 info: API Base Path: /api/v1
+2025-07-24 05:17:45:1745 info: Server is running on port 3000
+2025-07-24 05:17:45:1745 info: API Base Path: /api/v1
+2025-07-24 05:17:52:1752 info: Server is running on port 3000
+2025-07-24 05:17:52:1752 info: API Base Path: /api/v1
+2025-07-24 05:17:53:1753 info: Server is running on port 3000
+2025-07-24 05:17:53:1753 info: API Base Path: /api/v1
+2025-07-24 05:18:10:1810 info: Server is running on port 3000
+2025-07-24 05:18:10:1810 info: API Base Path: /api/v1
+2025-07-24 05:18:30:1830 info: Server is running on port 3000
+2025-07-24 05:18:30:1830 info: API Base Path: /api/v1
+2025-07-24 05:18:43:1843 info: POST /api/v1/admin/auth {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:18:43:1843 info: Admin route hit:
+2025-07-24 05:18:53:1853 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:18:53:1853 info: Admin route hit:
+2025-07-24 05:18:53:1853 info: Login route hit:
+2025-07-24 05:19:30:1930 info: Server is running on port 3000
+2025-07-24 05:19:30:1930 info: API Base Path: /api/v1
+2025-07-24 05:19:32:1932 info: Server is running on port 3000
+2025-07-24 05:19:32:1932 info: API Base Path: /api/v1
+2025-07-24 05:19:35:1935 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 05:20:47:2047 info: Server is running on port 3000
+2025-07-24 05:20:47:2047 info: API Base Path: /api/v1
+2025-07-24 05:20:55:2055 info: Server is running on port 3000
+2025-07-24 05:20:55:2055 info: API Base Path: /api/v1
+2025-07-24 18:21:38:2138 info: Server is running on port 3000
+2025-07-24 18:21:38:2138 info: API Base Path: /api/v1
+2025-07-24 18:21:44:2144 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:22:53:2253 info: Server is running on port 3000
+2025-07-24 18:22:53:2253 info: API Base Path: /api/v1
+2025-07-24 18:23:25:2325 info: Server is running on port 3000
+2025-07-24 18:23:25:2325 info: API Base Path: /api/v1
+2025-07-24 18:23:42:2342 info: Server is running on port 3000
+2025-07-24 18:23:42:2342 info: API Base Path: /api/v1
+2025-07-24 18:23:44:2344 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:24:22:2422 info: Server is running on port 3000
+2025-07-24 18:24:22:2422 info: API Base Path: /api/v1
+2025-07-24 18:24:25:2425 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:24:25:2425 info: Login attempt:
+2025-07-24 18:25:25:2525 info: Server is running on port 3000
+2025-07-24 18:25:25:2525 info: API Base Path: /api/v1
+2025-07-24 18:25:32:2532 info: Server is running on port 3000
+2025-07-24 18:25:32:2532 info: API Base Path: /api/v1
+2025-07-24 18:25:41:2541 info: Server is running on port 3000
+2025-07-24 18:25:41:2541 info: API Base Path: /api/v1
+2025-07-24 18:26:10:2610 info: Server is running on port 3000
+2025-07-24 18:26:10:2610 info: API Base Path: /api/v1
+2025-07-24 18:26:19:2619 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:26:19:2619 info: Pre-controller middleware - request body:
+2025-07-24 18:26:19:2619 info: Login controller - full request:
+2025-07-24 18:26:20:2620 info: Response body: Invalid credentials
+2025-07-24 18:27:32:2732 info: Server is running on port 3000
+2025-07-24 18:27:32:2732 info: API Base Path: /api/v1
+2025-07-24 18:27:36:2736 info: Server is running on port 3000
+2025-07-24 18:27:36:2736 info: API Base Path: /api/v1
+2025-07-24 18:27:37:2737 info: Server is running on port 3000
+2025-07-24 18:27:37:2737 info: API Base Path: /api/v1
+2025-07-24 18:27:42:2742 info: Server is running on port 3000
+2025-07-24 18:27:42:2742 info: API Base Path: /api/v1
+2025-07-24 18:27:45:2745 info: Server is running on port 3000
+2025-07-24 18:27:45:2745 info: API Base Path: /api/v1
+2025-07-24 18:27:55:2755 info: Server is running on port 3000
+2025-07-24 18:27:55:2755 info: API Base Path: /api/v1
+2025-07-24 18:27:57:2757 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:27:57:2757 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:27:57:2757 info: Login attempt:
+2025-07-24 18:28:27:2827 info: Server is running on port 3000
+2025-07-24 18:28:27:2827 info: API Base Path: /api/v1
+2025-07-24 18:28:33:2833 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:28:33:2833 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:28:33:2833 info: Login attempt:
+2025-07-24 18:28:44:2844 info: Server is running on port 3000
+2025-07-24 18:28:44:2844 info: API Base Path: /api/v1
+2025-07-24 18:32:13:3213 info: Server is running on port 3000
+2025-07-24 18:32:13:3213 info: API Base Path: /api/v1
+2025-07-24 18:32:27:3227 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:32:27:3227 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:32:27:3227 info: Login attempt: {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:32:33:3233 info: Server is running on port 3000
+2025-07-24 18:32:33:3233 info: API Base Path: /api/v1
+2025-07-24 18:32:39:3239 info: Server is running on port 3000
+2025-07-24 18:32:39:3239 info: API Base Path: /api/v1
+2025-07-24 18:32:44:3244 info: Server is running on port 3000
+2025-07-24 18:32:44:3244 info: API Base Path: /api/v1
+2025-07-24 18:32:57:3257 info: Server is running on port 3000
+2025-07-24 18:32:57:3257 info: API Base Path: /api/v1
+2025-07-24 18:32:59:3259 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:32:59:3259 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:32:59:3259 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:33:10:3310 info: Server is running on port 3000
+2025-07-24 18:33:10:3310 info: API Base Path: /api/v1
+2025-07-24 18:33:14:3314 info: Server is running on port 3000
+2025-07-24 18:33:14:3314 info: API Base Path: /api/v1
+2025-07-24 18:33:26:3326 info: Server is running on port 3000
+2025-07-24 18:33:26:3326 info: API Base Path: /api/v1
+2025-07-24 18:33:29:3329 info: POST /api/v1/admin/login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:33:29:3329 info: POST /login {"username":"superadmin","password":"Admin123!"}
+2025-07-24 18:33:29:3329 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:33:51:3351 info: Server is running on port 3000
+2025-07-24 18:33:51:3351 info: API Base Path: /api/v1
+2025-07-24 18:34:01:341 info: Server is running on port 3000
+2025-07-24 18:34:01:341 info: API Base Path: /api/v1
+2025-07-24 18:34:06:346 info: POST /api/v1/admin/login
+2025-07-24 18:34:06:346 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:34:09:349 info: POST /api/v1/admin/login
+2025-07-24 18:34:09:349 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:34:37:3437 info: Server is running on port 3000
+2025-07-24 18:34:37:3437 info: API Base Path: /api/v1
+2025-07-24 18:34:39:3439 info: POST /api/v1/admin/login
+2025-07-24 18:34:39:3439 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:35:17:3517 info: Server is running on port 3000
+2025-07-24 18:35:17:3517 info: API Base Path: /api/v1
+2025-07-24 18:35:20:3520 info: POST /api/v1/admin/login
+2025-07-24 18:35:20:3520 error: Login error: "[object Object]" is not valid JSON
+2025-07-24 18:35:32:3532 info: Server is running on port 3000
+2025-07-24 18:35:32:3532 info: API Base Path: /api/v1
+2025-07-24 18:35:35:3535 info: POST /api/v1/admin/login
+2025-07-24 18:35:35:3535 info: Login attempt:
+2025-07-24 18:36:01:361 info: Server is running on port 3000
+2025-07-24 18:36:01:361 info: API Base Path: /api/v1
+2025-07-24 18:36:04:364 info: POST /api/v1/admin/login
+2025-07-24 18:36:04:364 info: Login attempt:
+2025-07-24 18:36:15:3615 info: Server is running on port 3000
+2025-07-24 18:36:15:3615 info: API Base Path: /api/v1
+2025-07-24 18:36:19:3619 info: Server is running on port 3000
+2025-07-24 18:36:19:3619 info: API Base Path: /api/v1
+2025-07-24 18:38:22:3822 info: Server is running on port 3000
+2025-07-24 18:38:22:3822 info: API Base Path: /api/v1
+2025-07-24 18:38:32:3832 info: Server is running on port 3000
+2025-07-24 18:38:32:3832 info: API Base Path: /api/v1
+2025-07-24 18:38:37:3837 info: Server is running on port 3000
+2025-07-24 18:38:37:3837 info: API Base Path: /api/v1
+2025-07-24 18:38:58:3858 info: POST /api/v1/admin/login
+2025-07-24 18:39:52:3952 info: Server is running on port 3000
+2025-07-24 18:39:52:3952 info: API Base Path: /api/v1
+2025-07-24 18:40:18:4018 info: Server is running on port 3000
+2025-07-24 18:40:18:4018 info: API Base Path: /api/v1
+2025-07-24 18:40:41:4041 info: Server is running on port 3000
+2025-07-24 18:40:41:4041 info: API Base Path: /api/v1
+2025-07-24 18:40:45:4045 info: POST /api/v1/admin/login
+2025-07-24 18:41:46:4146 info: Server is running on port 3000
+2025-07-24 18:41:46:4146 info: API Base Path: /api/v1
+2025-07-24 18:41:49:4149 info: POST /api/v1/admin/login
